@@ -1,0 +1,39 @@
+/* Selector 1: Class selector */
+.title {
+  color: #3498db;
+  font-family: 'Georgia', serif;
+  text-align: center;
+}
+
+/* Selector 2: ID selector */
+#intro {
+  margin: 20px;
+  padding: 15px;
+  border: 2px dashed #2ecc71;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+/* Selector 3: Element selector */
+p {
+  line-height: 1.6;
+  font-size: 16px;
+  color: #333;
+}
+
+/* Style an image */
+.featured-img {
+  display: block;
+  margin: 30px auto;
+  border: 5px solid #e74c3c;
+  border-radius: 10px;
+  width: 200px;
+}
+
+/* Box with margin, padding, and borders */
+.content-box {
+  margin: 30px;
+  padding: 20px;
+  border: 2px solid #8e44ad;
+  background-color: #f0f8ff;
+}
